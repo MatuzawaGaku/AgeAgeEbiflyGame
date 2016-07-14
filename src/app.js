@@ -1,6 +1,6 @@
 //app.js
 
-var size;
+/*var size;
 
 var mylabel;
 //背景スクロールで追加した部分
@@ -114,7 +114,7 @@ var game = cc.Layer.extend({
     this.audioEngine.setEffectsVolume(this.audioEngine.getEffectsVolume() - 0.1);
   }*/
 
-});
+/*});
 
 //スクロール移動する背景クラス
 var ScrollingBG = cc.Sprite.extend({
@@ -226,4 +226,4 @@ function restartGame() {
   if (!audioEngine.isMusicPlaying()) {
     audioEngine.resumeMusic();
   }
-}
+}*/
